@@ -1,5 +1,5 @@
 bailey
-baloo
+[x] baloo 
 olga
 kay-ro
 chang
